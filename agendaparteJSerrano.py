@@ -1,3 +1,4 @@
+#Esta programa fue creado el martes 8 de marzo de 2022
 #Este es el programa de Jaime Serrano Maya y definimos y ponemos en acción la opción buscar dentro de la agenda
 def buscar_JSerrano(nombre, agenda):    #Definimos la operación de buscar y sus variables, nombre y agenda
     for nombre, numtel in agenda.items(): 
